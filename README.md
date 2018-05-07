@@ -4,6 +4,12 @@
 
 ## Højt logo
 
-| Basis logo                       | Med hjerte                                  | Med udfyldt hjerte                                 |
-| -------------------------------- | ------------------------------------------- | -------------------------------------------------- |
-| ![Logo variation 1](js_logo.png) | ![Logo variation 2](js_logo_with_heart.png) | ![Logo variation 3](js_logo_with_heart_filled.png) |
+| Basis logo       | Med hjerte                  | Med udfyldt hjerte                 |
+| ---------------- | --------------------------- | ---------------------------------- |
+| ![](js_logo.png) | ![](js_logo_with_heart.png) | ![](js_logo_with_heart_filled.png) |
+
+## Bredt logo
+
+| Basis logo            | Med hjerte                       | Med udfyldt hjerte                      |
+| --------------------- | -------------------------------- | --------------------------------------- |
+| ![](js_logo_wide.png) | ![](js_logo_wide_with_heart.png) | ![](js_logo_wide_with_heart_filled.png) |
