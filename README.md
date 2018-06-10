@@ -2,6 +2,10 @@
 
 > Disse logoer er IKKE officielle, men er produceret af @frankbille til intern brug. 2018-05-07
 
+## Logo kun med tekst
+
+![](js_logo_textonly.png)
+
 ## Højt logo
 
 | Basis logo       | Med hjerte                  | Med udfyldt hjerte                 |
